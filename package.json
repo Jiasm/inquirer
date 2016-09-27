@@ -1,0 +1,22 @@
+{
+  "name": "inquirer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiasm/inquirer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiasm/inquirer/issues"
+  },
+  "homepage": "https://github.com/Jiasm/inquirer#readme",
+  "devDependencies": {
+    "inquirer": "^1.1.3"
+  }
+}
